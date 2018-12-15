@@ -1,0 +1,24 @@
+{
+  "name": "testscourse",
+  "version": "1.0.0",
+  "description": "Just a mock",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fazendaaa/TestsCourse.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fazendaaa/TestsCourse/issues"
+  },
+  "homepage": "https://github.com/Fazendaaa/TestsCourse#readme",
+  "devDependencies": {
+    "jest": "^23.6.0",
+    "ts-jest": "^23.10.5",
+    "typescript": "^3.2.2"
+  }
+}
